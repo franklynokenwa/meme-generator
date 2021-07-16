@@ -9,7 +9,7 @@ class Header extends React.Component{
                     alt="Problem?"
                 />
                 <p>Meme Generator</p>
-            </header>
+            </header>  
         )
     }
 }
