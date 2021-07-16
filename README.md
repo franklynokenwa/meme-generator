@@ -1,4 +1,4 @@
-# Meme Genrator App
+# Meme Generator App
 This is an app that allows users to generate memes and it was built with React
 
 ## Table of contents
